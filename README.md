@@ -1,2 +1,2 @@
 # Python-Problems
-Python Projects
+Python Programs to Solve Problems
